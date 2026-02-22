@@ -47,22 +47,22 @@ interests:
 education:
   - degree: PhD Mechanical Engineering
     institution: New Jersey Institute of Technology University
-    start: 2015-09-01
-    end: 2019-06-30
+    start: 2020-09-01
+    end: 2025-12-31
     summary: |
       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Mechanical Engineering
+    institution: Andong National University
+    start: 2015-09-01
+    end: 2017-08-18
+  - degree: BS Mechanical Engineering
+    institution: Khulna University of Engineering & Technology
+    start: 2009-01-07
+    end: 2013-09-05
 
 experience:
   - role: Senior AI Research Scientist
