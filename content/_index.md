@@ -7,7 +7,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '2rem'
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
@@ -26,7 +26,8 @@ sections:
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: white
+        gradient_mesh:
+          enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
