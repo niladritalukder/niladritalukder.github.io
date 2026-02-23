@@ -19,6 +19,7 @@ sections:
       button:
         text: Download Resume
         url: uploads/resume.pdf
+        style: primary
       headings:
         about: ''
         education: ''
