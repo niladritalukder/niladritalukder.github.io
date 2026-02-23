@@ -41,11 +41,19 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research associate at the Advanced Energy Systems and Microdevices Laboratory at NJIT. I blog about machine learning, deep learning, and moonshots.
+        I am a Research Associate at the Advanced Energy Systems and Microdevices Laboratory at NJIT. My work spans multiple areas of technological development, focused on translating fundamental scientific concepts into practical, high-impact applications.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Advanced Nanocatalysts & Electrode Materials: I design and engineer graphene, MOF, and MXene-based nanocatalysts and electrode materials for electrochemical energy systems. My work integrates scalable synthesis, defect engineering, advanced characterization, and performance optimization to enhance catalytic activity, conductivity, stability, and overall device efficiency.
 
-        Please reach out to collaborate 😃
+    Materials Degradation & Durability Engineering: I investigate degradation mechanisms in carbon-based and composite nanomaterials under electrochemical and thermal operating conditions. Through structural, surface, and durability analyses, I identify failure pathways and develop strategies to improve long-term stability and operational reliability in energy systems.
+
+    Nano-Enhanced Thermal Energy Storage Materials: I develop nano-material-supported phase change materials (PCMs) to enhance thermal conductivity, heat storage capacity, and cycling stability. By optimizing dispersion, interfacial interactions, and composite formulation, I advance high-performance thermal energy storage solutions for building, HVAC, and energy applications.
+
+    Electrochemical Biosensing & Diagnostics: I develop electrochemical biosensors for point-of-care (POC) detection of disease biomarkers, including ovarian cancer and Alzheimer’s-related proteins. My work focuses on electrode functionalization, sensitivity enhancement.
+
+    Alternative Fuel Combustion Studies: I conducted experimental investigations on laminar flame speed and Markstein length of alternative fuels such as n-butanol and methyl decanoate. These studies improve understanding of combustion characteristics, flame stability, and fundamental kinetics for cleaner and more efficient energy systems.
+
+        Please reach out to discuss opportunities and collaborate 😃
     design:
       columns: '1'
   - block: collection
