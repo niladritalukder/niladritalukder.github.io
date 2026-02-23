@@ -17,7 +17,8 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Resume
+        text: Download Resumé
+          color: black
         url: uploads/resume.pdf
       headings:
         about: ''
