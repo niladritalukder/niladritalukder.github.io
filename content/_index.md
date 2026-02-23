@@ -17,8 +17,13 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Resumé
-        url: uploads/resume.pdf
+      text: |-
+        <p>
+          <a href="/uploads/resume.pdf"
+             style="display:inline-block; padding:0.75rem 1.25rem; background:#0b5fff; color:#ffffff; border-radius:0.6rem; text-decoration:none; font-weight:600;">
+            Download Resume
+          </a>
+        </p>
       headings:
         about: ''
         education: ''
