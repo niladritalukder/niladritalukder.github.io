@@ -84,12 +84,12 @@ experience:
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Material Characterization
         level: 5
-      - label: Machine Learning
+      - label: Material Synthesis
         level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: Experimental Research
+        level: 5
   - name: Research & Communication
     items:
       - label: Academic Writing
