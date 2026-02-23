@@ -12,26 +12,21 @@ design:
 sections:
   - block: resume-biography-3
     content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: |-
-        <p>
-          <a href="/uploads/resume.pdf"
-             style="display:inline-block; padding:0.75rem 1.25rem; background:#0b5fff; color:#ffffff; border-radius:0.6rem; text-decoration:none; font-weight:600;">
-            Download Resume
-          </a>
-        </p>
+      text: ''
+      # Show a call-to-action button under your biography? (optional)
+      button:
+        text: Download Resume
+        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
         interests: ''
     design:
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         color: white
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
 
       # Name heading sizing to accommodate long or short names
       name:
