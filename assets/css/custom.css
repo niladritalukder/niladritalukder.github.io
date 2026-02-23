@@ -1,0 +1,17 @@
+/* Fix white-on-white Resume button */
+a.btn,
+button.btn,
+.btn {
+  color: #ffffff !important;
+  background-color: #0b5fff !important;
+  border: 1px solid #0b5fff !important;
+}
+
+a.btn:hover,
+button.btn:hover,
+.btn:hover,
+a.btn:focus,
+button.btn:focus,
+.btn:focus {
+  filter: brightness(0.92);
+}
