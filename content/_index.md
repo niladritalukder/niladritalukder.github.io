@@ -27,7 +27,7 @@ sections:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
-          enable: false
+          enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
