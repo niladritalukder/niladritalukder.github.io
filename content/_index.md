@@ -14,11 +14,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
-      # Show a call-to-action button under your biography? (optional)
-      button:
-      text: '<span style="color: black;">Download Resume</span>'
-      url: uploads/resume.pdf
+      text: |-
+        <p>
+          <a href="/uploads/resume.pdf"
+             style="display:inline-block; padding:0.7rem 1.1rem; background:#0b5fff; color:#ffffff; border-radius:0.6rem; text-decoration:none; font-weight:700;">
+            Download Resume
+          </a>
+        </p>
       headings:
         about: ''
         education: ''
