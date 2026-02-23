@@ -21,7 +21,7 @@ bio: |
 
 affiliations:
   - name: New Jersey Institute of Technology
-    url: https://ai.meta.com/
+    url: https://www.lee-research.org/people/
 
 links:
   - icon: at-symbol
@@ -32,11 +32,11 @@ links:
   - icon: brands/github
     url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/niladri-talukder/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=MQbyVLgAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-0332-8055
 
 interests:
   - Functional Nanomaterials
