@@ -20,7 +20,7 @@ sections:
       text: |-
         <p>
           <a href="/uploads/resume.pdf"
-             style="display:inline-block; padding:0.75rem 1.25rem; background:#0b5fff; color:#ffffff; border-radius:0.6rem; text-decoration:none; font-weight:600;">
+             style="display:inline-block; padding:0.75rem 1.25rem; background:#0b5fff; color:#000000; border-radius:0.6rem; text-decoration:none; font-weight:600;">
             Download Resume
           </a>
         </p>
