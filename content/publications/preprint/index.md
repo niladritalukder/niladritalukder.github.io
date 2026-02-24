@@ -1,7 +1,11 @@
 ---
 title: "Chemical Changes from N-doped Graphene and Metal-organic Frameworks to N-G/MOF Composites for Improved Electrocatalytic Activity"
 authors:
-- me
+- Niladri Talukder
+- Yudong Wang
+- Xiao Tong
+- Eon Soo Lee
+
 date: "2015-01-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
