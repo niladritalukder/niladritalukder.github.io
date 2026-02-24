@@ -36,7 +36,7 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: published
+  - type: published
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0008622324010352"
   - type: code
     url: "https://github.com/niladritalukder"
