@@ -33,7 +33,7 @@ hugoblox:
 links:
 - type: published
   provider: Carbon, ELSEVIER
-  id: 119816
+  id: 1512.04133v1
 - type: code
   url: [https://github.com/HugoBlox/kit](https://www.sciencedirect.com/science/article/abs/pii/S0008622324010352)
 - type: slides
