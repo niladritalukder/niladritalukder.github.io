@@ -18,7 +18,7 @@ publication_types:
   - Jurnal Article
 
 # Publication name and optional abbreviated publication name.
-publication: "Carbon"
+publication: "Carbon (ELSEVIER)"
 publication_short: "Carbon, Volume 232, 15 January 2025, 119816"
 
 abstract: >-
