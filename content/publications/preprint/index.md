@@ -32,28 +32,24 @@ tags:
 
 featured: true
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
-
 links:
   - type: published
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0008622324010352"
   - type: code
     url: "https://github.com/niladritalukder"
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  - type: slides
+    url: https://www.slideshare.net/
+  - type: dataset
+    url: "#"
+  - type: poster
+    url: "#"
+  - type: source
+    url: "#"
+  - type: video
+    url: https://youtube.com
+  - type: custom
+    label: Custom Link
+    url: http://example.org
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -68,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
