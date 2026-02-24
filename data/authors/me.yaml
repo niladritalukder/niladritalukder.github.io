@@ -104,9 +104,9 @@ skills:
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
+    label: Fluent
+  - name: Bengali
+    level: 5
     label: Fluent
 
 awards:
