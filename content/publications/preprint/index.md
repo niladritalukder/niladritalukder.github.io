@@ -35,19 +35,19 @@ featured: true
 links:
   - type: published
     url: "https://www.sciencedirect.com/science/article/abs/pii/S0008622324010352"
-  - type: code
+  # - type: code
     url: "https://github.com/niladritalukder"
-  - type: slides
+  # - type: slides
     url: https://www.slideshare.net/
-  - type: dataset
+  # - type: dataset
     url: "#"
-  - type: poster
+  # - type: poster
     url: "#"
-  - type: source
+  # - type: source
     url: "#"
-  - type: video
+  # - type: video
     url: https://youtube.com
-  - type: custom
+  # - type: custom
     label: Custom Link
     url: http://example.org
 
