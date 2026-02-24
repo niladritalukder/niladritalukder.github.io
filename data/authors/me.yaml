@@ -52,10 +52,10 @@ education:
     start: 2020-09-01
     end: 2025-12-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Material Degradation and Analysis of N-Doped Graphene/MOF Nanocatalysts for ORR in Electrochemical Energy Systems.
     button:
       text: Download dissertation
-      url: /resume.pdf
+      url: https://www.proquest.com/openview/ff689a128d9d048400620c4798872489/1?pq-origsite=gscholar&cbl=18750&diss=y
       icon: hero/arrow-down-tray
   - degree: MS Mechanical Engineering
     institution: Andong National University
