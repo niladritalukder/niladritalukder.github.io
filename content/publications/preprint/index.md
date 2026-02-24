@@ -1,5 +1,5 @@
 ---
-title: "Chemical Changes from N-doped Graphene and Metal-organic Frameworks to N-G/MOF Composites for Improved Electrocatalytic Activity."
+title: "Chemical Changes from N-doped Graphene and Metal-organic Frameworks to N-G/MOF Composites for Improved Electrocatalytic Activity"
 authors:
 - me
 date: "2015-01-15T00:00:00Z"
