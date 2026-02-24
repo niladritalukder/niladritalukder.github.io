@@ -59,9 +59,9 @@ projects:
 slides: ""
 ---
 
-#   This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.
+This work is driven by the results in my [previous conferencec paper]([/publications/conference-paper/](https://iopscience.iop.org/article/10.1149/MA2024-0112980mtgabs)) on N-G/MOF Nanocatalyst.
 
-#   > [!NOTE]
-#   > Create your slides in Markdown - click the *Slides* button to check out the example.
+> [!NOTE]
+> Create your slides in Markdown - click the *Slides* button to check out the example.
 
-#   Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
