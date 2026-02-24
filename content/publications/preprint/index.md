@@ -1,11 +1,11 @@
 ---
-title: "An example preprint / working paper"
+title: "Chemical Changes from N-doped Graphene and Metal-organic Frameworks to N-G/MOF Composites for Improved Electrocatalytic Activity."
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2015-01-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-01-15T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +16,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Integrating N-doped graphene (N-G) with Metal-Organic Frameworks (MOFs) enhances catalytic activity for oxygen reduction reaction (ORR), often exceeding both the performances of their precursors and, in some cases, even Platinum group metal (PGM)-based catalysts. However, the factors driving this improved catalytic activity in N-G/MOF composites remain unexplored, particularly from the perspective of the chemical changes. To investigate the chemical changes in N-G and MOF upon their integration and the implications of these changes on ORR catalytic activity, an N-G/MOF was synthesized from N-G with a MOF (ZIF-8) following a mechanochemical wet ball milling process. The N-G, ZIF-8, and N-G/MOF samples were examined for changes in elemental composition, chemical state of carbon, different nitrogen and carbon bonds, and other chemical interactions. In the N-G/MOF catalyst, compared to its N-G and ZIF-8 precursors, the relative oxygen content increased, indicating the formation of additional oxygen-containing groups. The C 1s peak shifted to a lower binding energy in N-G/MOF, suggesting changes in the overall chemical or oxidation state of the carbon atoms. Besides, the increase in pyridinic-N functional groups in N-G/MOF points to the formation of additional active sites. Furthermore, the formation of C–Zn bonds in N-G/MOF suggests the probable emergence of single-atom Zn sites, while the increase in Cdouble bondO bonds points to the formation of carboxyl or carbonyl groups. These chemical changes could be linked to the enhanced electrocatalytic activity of the N-G/MOF composite for ORR. This study may also be beneficial for other research focused on developing composite catalysts involving various N-G and MOFs-based materials.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- N-doped Graphene/Metal-Organic Frameworks Nanocatalyst Degradation
 
 featured: true
 
@@ -31,11 +31,11 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
+- type: published
+  provider: Carbon, ELSEVIER
+  id: 119816
 - type: code
-  url: https://github.com/HugoBlox/kit
+  url: [https://github.com/HugoBlox/kit](https://www.sciencedirect.com/science/article/abs/pii/S0008622324010352)
 - type: slides
   url: https://www.slideshare.net/
 - type: dataset
