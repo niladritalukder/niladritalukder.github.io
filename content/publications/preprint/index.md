@@ -11,7 +11,6 @@ publishDate: "2025-01-15T00:00:00Z"
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ['Jurnal-Article']
-  - article
 
 # Publication name and optional abbreviated publication name.
 publication: "Carbon"
