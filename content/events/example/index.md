@@ -44,9 +44,9 @@ links:
 #  - icon: brands/youtube
 #    name: Video Tutorial
 #    url: https://www.youtube.com/
-    - icon: book-open
-      name: Session Sheet
-      url: https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=E4D6F9CD9CF5CDA485258D0D005A438A
+  - icon: book-open
+    name: Session Sheet
+    url: https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=E4D6F9CD9CF5CDA485258D0D005A438A
 
 # Link to your Markdown slides
 slides: "example"
