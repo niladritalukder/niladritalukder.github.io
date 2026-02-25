@@ -15,7 +15,7 @@ address:
 
 summary: This talk is about Nitrogen-doped graphene enhances paraffin PCM thermal conductivity while increasing latent heat through engineered nanoscale molecular interactions.
 abstract: |
-  This study develops nitrogen-doped graphene (N-G) enhanced paraffin phase change materials to improve thermal conductivity without sacrificing latent heat. Using nanoscale high-energy ball milling and controlled dispersion, molecular-level interactions were achieved, enabling dual enhancement. A 2 wt% N-G composite demonstrated improved conductivity and increased latent heat capacity.
+  This study advances thermal energy storage by integrating nitrogen-doped graphene (N-G) into paraffin-based phase change materials (PCMs) to overcome low thermal conductivity limitations. N-G was synthesized via nanoscale high-energy wet ball milling of graphene oxide and melamine, enabling functional group engineering and nanoscale control. The nanomaterial was uniformly dispersed into paraffin through controlled sonication to promote molecular-level interactions. Comprehensive thermal and structural characterization revealed that a 2 wt% N-G composite achieved enhanced thermal conductivity alongside an approximately 5% increase in latent heat capacity. These results demonstrate a synergistic design strategy for next-generation PCMs that simultaneously improve heat transfer and energy density.
 
 # Talk start and end times.
 event_start: '2026-03-15T13:00:00Z'
