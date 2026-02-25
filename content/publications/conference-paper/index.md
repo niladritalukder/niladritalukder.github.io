@@ -39,7 +39,9 @@ summary: >-
 tags:
   - Metal-organic Frameworks (MOF)
   - ZIF-8
-  - Water Stability
+  - Structural Stability
+  - Stability in Water
+  - Effect of Oxidative Species
 
 # Display this page in the Featured widget?
 featured: true
@@ -67,8 +69,8 @@ hugoblox:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
