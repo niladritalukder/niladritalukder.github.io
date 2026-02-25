@@ -399,6 +399,7 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 - [Using HugoBlox Studio](https://docs.hugoblox.com/studio/)
 -->
 
+<!--
 ### Tips & Tricks
 
 > [!TIP] **Pro Tips for Better Presentations**
