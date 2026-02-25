@@ -1,14 +1,14 @@
 ---
-title: "Create Beautiful Presentations with Markdown"
-date: '2017-01-01T00:00:00Z'
+title: "Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support"
+date: '2026-03-16T00:00:00Z'
 
-event_name: HugoBlox Showcase
-event_url: https://hugoblox.com
+event_name: 2026 TMS Annual Meeting & Exhibition
+event_url: https://www.tms.org/TMS2026
 
-location: Online & In-Person
+location: In-Person
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: San Diego Convention Center and Hilton San Diego Bayfront
+  city: San Diego
   region: CA
   postcode: '94305'
   country: United States
@@ -18,8 +18,8 @@ abstract: |
   Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
 
 # Talk start and end times.
-event_start: '2030-06-01T13:00:00Z'
-event_end: '2030-06-01T15:00:00Z'
+event_start: '2026-03-15T13:00:00Z'
+event_end: '2026-03-19T15:00:00Z'
 event_all_day: false
 
 authors:
@@ -38,15 +38,15 @@ image:
   focal_point: Right
 
 links:
-  - icon: brands/github
-    name: Star on GitHub
-    url: https://github.com/HugoBlox/kit
-  - icon: brands/youtube
-    name: Video Tutorial
-    url: https://www.youtube.com/
-  - icon: book-open
-    name: Documentation
-    url: https://docs.hugoblox.com/guides/slides/
+#  - icon: brands/github
+#    name: Star on GitHub
+#    url: https://github.com/HugoBlox/kit
+#  - icon: brands/youtube
+#    name: Video Tutorial
+#    url: https://www.youtube.com/
+#  - icon: book-open
+    name: Session Sheet
+    url: https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=E4D6F9CD9CF5CDA485258D0D005A438A
 
 # Link to your Markdown slides
 slides: "example"
