@@ -38,12 +38,6 @@ image:
   focal_point: Right
 
 links:
-#  - icon: brands/github
-#    name: Star on GitHub
-#    url: https://github.com/HugoBlox/kit
-#  - icon: brands/youtube
-#    name: Video Tutorial
-#    url: https://www.youtube.com/
   - icon: book-open
     name: Session Sheet
     url: https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=E4D6F9CD9CF5CDA485258D0D005A438A
