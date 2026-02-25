@@ -49,19 +49,19 @@ hugoblox:
     doi: "10.1016/j.micromeso.2023.112934"
 
 # Custom links
-links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
+# links:
+#  - type: pdf
+#    url: ""
+#  - type: code
+#    url: https://github.com/HugoBlox/kit
+#  - type: dataset
+#    url: https://github.com/HugoBlox/kit
+#  - type: slides
+#    url: https://www.slideshare.net/
+#  - type: source
+#    url: https://github.com/HugoBlox/kit
+#  - type: video
+#    url: https://youtube.com
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -86,6 +86,7 @@ projects:
 slides: ""
 ---
 
+<!--
 > [!NOTE]
 > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
@@ -93,3 +94,5 @@ slides: ""
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
+
