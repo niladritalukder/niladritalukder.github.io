@@ -13,9 +13,9 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Discover how to create stunning, interactive presentations using simple Markdown — no PowerPoint, Keynote, or vendor lock-in required.
+summary: This talk is about Nitrogen-doped graphene enhances paraffin PCM thermal conductivity while increasing latent heat through engineered nanoscale molecular interactions.
 abstract: |
-  Join us to explore HugoBlox's revolutionary Markdown-based slide system. Create beautiful presentations with code syntax highlighting, math equations, animations, and dual-column layouts. Edit your slides in any text editor, version control them with Git, and present them anywhere with just a browser. Experience true presentation freedom.
+  This study develops nitrogen-doped graphene (N-G) enhanced paraffin phase change materials to improve thermal conductivity without sacrificing latent heat. Using nanoscale high-energy ball milling and controlled dispersion, molecular-level interactions were achieved, enabling dual enhancement. A 2 wt% N-G composite demonstrated improved conductivity and increased latent heat capacity.
 
 # Talk start and end times.
 event_start: '2026-03-15T13:00:00Z'
