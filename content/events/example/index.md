@@ -408,6 +408,8 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 ---
 -->
 
+<!--
 **Have questions?** Check out the [FAQ](https://docs.hugoblox.com/guides/slides/) or [ask the community](https://discord.gg/z8wNYzb)!
 
 **Want to contribute?** Hugo Blox is open source! [Contributions welcome](https://github.com/HugoBlox/kit/blob/main/CONTRIBUTING.md).
+-->
