@@ -54,6 +54,7 @@ slides: "example"
 projects: []
 ---
 
+<!--
 ## 🎯 Why Markdown Slides?
 
 > [!SUCCESS] True Presentation Freedom
@@ -410,6 +411,7 @@ Each lecture gets its own slide deck, all version controlled, all editable by st
 > 7. Share source files for reproducibility
 
 ---
+-->
 
 **Have questions?** Check out the [FAQ](https://docs.hugoblox.com/guides/slides/) or [ask the community](https://discord.gg/z8wNYzb)!
 
