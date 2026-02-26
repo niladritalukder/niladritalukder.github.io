@@ -1,14 +1,14 @@
 ---
-title: ⚡️ Turn Jupyter Notebooks into Blog Posts
-summary: Publish your data science and research directly from Jupyter Notebooks. No screenshots required.
-date: 2024-07-15
+title: ⚡️ PhD Dissertation Defense - Success! 
+summary: On November 13th, 2025, Niladri Talukder successfully defended his PhD Dissertation at the Department of Mechanical Engineering, New Jersey Institute Technology.
+date: 2025-11-13
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Jupyter
-  - Open Science
-  - Tutorials
+  - PhD Dissertation
+  - N-Doped Graphene/MOF Nanocatalysts
+  - Material Degradation and Analysis
+  - Oxygen Reduction Reaction (ORR)
 cover:
   # image: cover.jpg  # Auto-detected from cover image in this folder
   icon:
