@@ -6,8 +6,8 @@ authors:
 - Bharath Babu Nunna
 - Eon Soo Lee
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Lead Author"
+
 date: "2021-11-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
