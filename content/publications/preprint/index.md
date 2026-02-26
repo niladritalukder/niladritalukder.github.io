@@ -5,6 +5,8 @@ authors:
 - Yudong Wang
 - Xiao Tong
 - Eon Soo Lee
+author_notes:
+- "Lead Author"
 
 date: "2025-01-15T00:00:00Z"
 
