@@ -21,12 +21,12 @@ content_meta:
   trending: true
 ---
 
-As a researcher or data scientist, your work often lives in Jupyter Notebooks. But sharing those insights effectively usually means taking screenshots, messy copy-pasting, or exporting to PDF.
-
-Hugo Blox changes that. With the `{{</* notebook */>}}` shortcode, you can render your actual `.ipynb` files directly as beautiful, interactive blog posts or project pages. Keep your code, outputs, and narrative in one place.
+Niladri’s dissertation, “Material Degradation and Analysis of N-Doped Graphene/MOF Nanocatalysts for ORR in Electrochemical Energy Systems,” presents an integrated theoretical and experimental investigation of nitrogen-doped graphene (N-G) and N-G/MOF nanocatalysts as sustainable alternatives to precious metal catalysts. The research systematically examined synthesis–structure–property relationships, resolving the roles of nitrogen functional groups, electronic structure modulation, and precursor-to-composite chemical transformations in governing oxygen reduction reaction (ORR) performance. Through detailed electrochemical analysis, the work established direct correlations between linear sweep voltammetry behavior and ORR mechanisms in both alkaline and acidic environments. Comprehensive degradation studies identified performance losses induced by oxidative species such as hydrogen peroxide and its derivatives, while parallel investigations clarified the structural stability of ZIF-8 in aqueous electrochemical conditions. Collectively, this research provided mechanistic insights and rational design principles for enhancing catalytic activity, durability, and structural resilience in carbon-based electrochemical nanocatalysts.
+Building on this foundation, Niladri aims to advance next-generation electrochemical materials for sustainable energy conversion and storage systems. His future work will focus on scalable catalyst design, durability engineering, and structure-driven performance optimization for fuel cells, batteries, and related technologies. By bridging fundamental materials science with applied engineering and commercialization perspectives, he seeks to accelerate the development of high-performance, cost-effective alternatives to precious metal catalysts. His long-term goal is to contribute to resilient, efficient, and globally deployable clean energy technologies.
 
 {{< toc mobile_only=true is_open=true >}}
 
+<!--
 ## Why publish notebooks?
 
 > [!TIP]
@@ -66,5 +66,6 @@ Below is a live example of a notebook rendered right here in this post. Notice h
 - **Try it out:** Drop one of your existing notebooks into this site and see how it looks.
 - **Link your papers:** Use the Embed shortcode to link your notebook to your latest arXiv preprint or GitHub repository.
 - **Get help:** Join the community on [Discord](https://discord.gg/z8wNYzb) or check the [documentation](https://docs.hugoblox.com).
+-->
 
-Happy researching! 🚀
+Happy to research and work for a sustainable future! 🚀
