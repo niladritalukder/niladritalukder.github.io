@@ -12,7 +12,8 @@ authors:
   - Eon Soo Lee
 
 # Author notes (optional)
-author_notes: "Lead Author"
+author_notes:
+  - "Lead Author"
 
 date: '2024-02-15T00:00:00Z'
 
