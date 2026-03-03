@@ -24,17 +24,7 @@ publication: "Catalysts (MDPI)"
 publication_short: "Catalysts, Volume 12 (7), 15 July 2022, Page 791"
 
 abstract: >-
-  Detailed studies of the electrochemical oxygen reduction reaction (ORR) on catalyst materials are crucial to improving the performance of different electrochemical energy conversion and
-storage systems (e.g., fuel cells and batteries), as well as numerous chemical synthesis processes. In the effort to reduce the loading of expensive platinum group metal (PGM)-based catalysts for ORR in
-the electrochemical systems, many carbon-based catalysts have already shown promising results and numerous investigations on those catalysts are in progress. Most of these studies show the catalyst
-materials’ ORR performance as current density data obtained through the rotating disk electrode (RDE), rotating ring-disk electrode (RRDE) experiments taking cyclic voltammograms (CV) or linear
-sweep voltammograms (LSV) approaches. However, the provided descriptions or interpretations of those data curves are often ambiguous and recondite which can lead to an erroneous understanding
-of the ORR phenomenon in those specific systems and inaccurate characterization of the catalyst materials. In this paper, we presented a study of ORR on a newly developed carbon-based catalyst,
-the nitrogen-doped graphene/metal-organic framework (N-G/MOF), through RDE and RRDE experiments in both alkaline and acidic mediums, taking the LSV approach. The functions and crucial
-considerations for the different parts of the RDE/RRDE experiment such as the working electrode, reference electrode, counter electrode, electrolyte, and overall RDE/RRDE process are delineated
-which can serve as guidelines for the new researchers in this field. Experimentally obtained LSV curves’ shapes and their correlations with the possible ORR reaction pathways within the applied
-potential range are discussed in depth. We also demonstrated how the presence of hydrogen peroxide (H2O2), a possible intermediate of ORR, in the alkaline electrolyte and the concentration of acid in
-the acidic electrolyte can maneuver the ORR current density output in compliance with the possible ORR pathways.
+  Detailed studies of the electrochemical oxygen reduction reaction (ORR) on catalyst materials are crucial to improving the performance of different electrochemical energy conversion and storage systems (e.g., fuel cells and batteries), as well as numerous chemical synthesis processes. In the effort to reduce the loading of expensive platinum group metal (PGM)-based catalysts for ORR in electrochemical systems, many carbon-based catalysts have shown promising results and numerous investigations are in progress. Most studies report ORR performance as current density curves from rotating disk electrode (RDE) and rotating ring-disk electrode (RRDE) experiments using cyclic voltammograms (CV) or linear sweep voltammograms (LSV). However, interpretations are often ambiguous and can lead to misunderstanding of ORR pathways and inaccurate characterization. Here, we study ORR on nitrogen-doped graphene/metal-organic framework (N-G/MOF) catalysts via RDE/RRDE LSV in both alkaline and acidic media. Key components of the RDE/RRDE setup and practical considerations are delineated as guidelines for new researchers. We discuss LSV curve features and their relationship to ORR pathways, and demonstrate how hydrogen peroxide (H2O2) in alkaline electrolyte and acid concentration in acidic electrolyte influence ORR current density in line with possible pathways.
 
 # Summary. An optional shortened abstract.
 summary: >-
