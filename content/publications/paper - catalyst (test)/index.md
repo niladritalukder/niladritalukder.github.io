@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen-doped graphene nanomaterials for electrochemical catalysis/reactions: A review on chemical structures and stability"
+title: "An In-Depth Exploration of the Electrochemical Oxygen Reduction Reaction (ORR) Phenomenon on Carbon-Based Catalysts in Alkaline and Acidic Mediums"
 authors:
 - Niladri Talukder
 - Yudong Wang
@@ -8,10 +8,10 @@ authors:
 author_notes:
 - "Lead Author"
 
-date: "2021-11-15T00:00:00Z"
+date: "2022-07-19T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-15T00:00:00Z"
+publishDate: "2022-07-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,15 +20,25 @@ publication_types:
   - Journal Article
 
 # Publication name and optional abbreviated publication name.
-publication: "Carbon (ELSEVIER)"
-publication_short: "Carbon, Volume 185, 15 November 2021, Pages 198-214"
+publication: "Catalysts (MDPI)"
+publication_short: "Catalysts, Volume 12 (7), 15 July 2022, Page 791"
 
 abstract: >-
-  The electronic structure of the carbon-based nanomaterials can be modulated by doping heteroatoms into them. When nitrogen is doped into the graphene structure with different bonding configurations, it changes the material's electronic properties in a variety of ways. Because of the tuned electronic properties, nitrogen-doped graphene (N-G) is applicable in electrochemical systems as catalyst. Despite having tremendous prospects, a holistic view of the structural and functional properties of N-G is still unclear. Moreover, to our knowledge, significant findings on the properties of N-G are not well documented yet, which creates an obstacle to the further improvement of this nanomaterial. Keeping our focus on the catalytic activities, in this paper, we presented an in-detailed review of the overall chemical structure and functional properties of N-G nanomaterials. Starting from the structural properties of major precursor materials for N-G synthesis, we reviewed the physical features and its dependence on the synthesis parameters. Also, a detailed study has been conducted on the key nitrogen functional groups' structural properties, favorable formation environment, influence on the electronic structure of N-G, and role in the catalytic activity. Current progress on the stability of N-G nanocatalysts is reported with an insight into the degradation mechanism.
+  Detailed studies of the electrochemical oxygen reduction reaction (ORR) on catalyst materials are crucial to improving the performance of different electrochemical energy conversion and
+storage systems (e.g., fuel cells and batteries), as well as numerous chemical synthesis processes. In the effort to reduce the loading of expensive platinum group metal (PGM)-based catalysts for ORR in
+the electrochemical systems, many carbon-based catalysts have already shown promising results and numerous investigations on those catalysts are in progress. Most of these studies show the catalyst
+materials’ ORR performance as current density data obtained through the rotating disk electrode (RDE), rotating ring-disk electrode (RRDE) experiments taking cyclic voltammograms (CV) or linear
+sweep voltammograms (LSV) approaches. However, the provided descriptions or interpretations of those data curves are often ambiguous and recondite which can lead to an erroneous understanding
+of the ORR phenomenon in those specific systems and inaccurate characterization of the catalyst materials. In this paper, we presented a study of ORR on a newly developed carbon-based catalyst,
+the nitrogen-doped graphene/metal-organic framework (N-G/MOF), through RDE and RRDE experiments in both alkaline and acidic mediums, taking the LSV approach. The functions and crucial
+considerations for the different parts of the RDE/RRDE experiment such as the working electrode, reference electrode, counter electrode, electrolyte, and overall RDE/RRDE process are delineated
+which can serve as guidelines for the new researchers in this field. Experimentally obtained LSV curves’ shapes and their correlations with the possible ORR reaction pathways within the applied
+potential range are discussed in depth. We also demonstrated how the presence of hydrogen peroxide (H2O2), a possible intermediate of ORR, in the alkaline electrolyte and the concentration of acid in
+the acidic electrolyte can maneuver the ORR current density output in compliance with the possible ORR pathways.
 
 # Summary. An optional shortened abstract.
 summary: >-
-  This review comprehensively analyzes nitrogen-doped graphene’s structural, electronic, and catalytic properties, examining synthesis parameters, nitrogen configurations, and degradation mechanisms to clarify structure–activity relationships for improved electrochemical performance.
+  This study clarifies oxygen reduction reaction mechanisms on N-G/MOF catalysts by systematically interpreting RDE/RRDE voltammetry behavior and electrolyte effects in alkaline and acidic media.
 
 tags:
 - Source Themes
@@ -36,7 +46,7 @@ featured: false
 
 hugoblox:
   ids:
-    doi: "10.1016/j.carbon.2021.09.025"
+    doi: "10.3390/catal12070791"
 
 links:
 #  - type: Link
@@ -52,7 +62,7 @@ links:
 #  - type: slides
 #    url: https://www.slideshare.net/
   - type: source
-    url: "https://www.sciencedirect.com/science/article/abs/pii/S0008622321009167"
+    url: "https://www.mdpi.com/2073-4344/12/7/791"
 #  - type: video
 #    url: ""
 
@@ -78,6 +88,7 @@ projects: []
 slides: ""
 ---
 
+<!--
 > [!NOTE]
 > Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
@@ -85,3 +96,4 @@ slides: ""
 > Create your slides in Markdown - click the *Slides* button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
