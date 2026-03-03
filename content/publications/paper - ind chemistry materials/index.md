@@ -1,17 +1,19 @@
 ---
-title: "An In-Depth Exploration of the Electrochemical Oxygen Reduction Reaction (ORR) Phenomenon on Carbon-Based Catalysts in Alkaline and Acidic Mediums"
+title: "Investigation on electrocatalytic performance and material degradation of an N-doped graphene-MOF nanocatalyst in emulated electrochemical environments"
 authors:
 - Niladri Talukder
 - Yudong Wang
 - Bharath Babu Nunna
+- Xiao Tong
+- Jorge Anibal Boscoboinik
 - Eon Soo Lee
 author_notes:
 - "Lead Author"
 
-date: "2022-07-19T00:00:00Z"
+date: "2023-08-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-19T00:00:00Z"
+publishDate: "2023-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,15 +22,15 @@ publication_types:
   - Journal Article
 
 # Publication name and optional abbreviated publication name.
-publication: "Catalysts (MDPI)"
-publication_short: "Catalysts, Volume 12 (7), 15 July 2022, Page 791"
+publication: "Industrial Chemistry & Materials (Royal Society of Chemistry)"
+publication_short: "Industrial Chemistry & Materials, Volume 1, 01 August 2023, Page 360-375"
 
 abstract: >-
-  Detailed studies of the electrochemical oxygen reduction reaction (ORR) on catalyst materials are crucial to improving the performance of different electrochemical energy conversion and storage systems (e.g., fuel cells and batteries), as well as numerous chemical synthesis processes. In the effort to reduce the loading of expensive platinum group metal (PGM)-based catalysts for ORR in electrochemical systems, many carbon-based catalysts have shown promising results and numerous investigations are in progress. Most studies report ORR performance as current density curves from rotating disk electrode (RDE) and rotating ring-disk electrode (RRDE) experiments using cyclic voltammograms (CV) or linear sweep voltammograms (LSV). However, interpretations are often ambiguous and can lead to misunderstanding of ORR pathways and inaccurate characterization. Here, we study ORR on nitrogen-doped graphene/metal-organic framework (N-G/MOF) catalysts via RDE/RRDE LSV in both alkaline and acidic media. Key components of the RDE/RRDE setup and practical considerations are delineated as guidelines for new researchers. We discuss LSV curve features and their relationship to ORR pathways, and demonstrate how hydrogen peroxide (H2O2) in alkaline electrolyte and acid concentration in acidic electrolyte influence ORR current density in line with possible pathways.
+  To develop graphene-based nanomaterials as reliable catalysts for electrochemical energy conversion and storage systems (e.g. PEM fuel cells, metal–air batteries, etc.), it is imperative to critically understand their performance changes and correlated material degradation processes under different operational conditions. In these systems, hydrogen peroxide (H2O2) is often an inevitable byproduct of the catalytic oxygen reduction reaction, which can be detrimental to the catalysts, electrodes, and electrolyte materials. Here, we studied how the electrocatalytic performance changes for a heterogeneous nanocatalyst named nitrogen-doped graphene integrated with a metal–organic framework (N-G/MOF) by the effect of H2O2, and correlated the degradation process of the catalyst in terms of the changes in elemental compositions, chemical bonds, crystal structures, and morphology. The catalyst samples were treated with five different concentrations of H2O2 to emulate the operational conditions and examined to quantify the changes in electrocatalytic performances in an alkaline medium, elemental composition and chemical bonds, crystal structure, and morphology. The electrocatalytic performance considerably declined as the H2O2 concentration reached above 0.1 M. The XPS analyses suggest the formation of different oxygen functional groups on the material surface, the breakdown of the material's C–C bonds, and a sharp decline in pyridinic-N functional groups due to gradually harsher H2O2 treatments. In higher concentrations, the H2O2-derived radicals altered the crystalline and morphological features of the catalyst.
 
 # Summary. An optional shortened abstract.
 summary: >-
-  This study clarifies oxygen reduction reaction mechanisms on N-G/MOF catalysts by systematically interpreting RDE/RRDE voltammetry behavior and electrolyte effects in alkaline and acidic media.
+  This study demonstrates that hydrogen peroxide–induced degradation significantly alters the structure, composition, and ORR performance of N-G/MOF nanocatalysts under electrochemical operating conditions.
 
 tags:
 - Source Themes
@@ -36,7 +38,7 @@ featured: false
 
 hugoblox:
   ids:
-    doi: "10.3390/catal12070791"
+    doi: "10.1039/D3IM00044C"
 
 links:
 #  - type: Link
@@ -52,7 +54,7 @@ links:
 #  - type: slides
 #    url: https://www.slideshare.net/
   - type: source
-    url: "https://www.mdpi.com/2073-4344/12/7/791"
+    url: "https://pubs.rsc.org/en/content/articlelanding/2023/im/d3im00044c"
 #  - type: video
 #    url: ""
 
