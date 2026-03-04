@@ -12,6 +12,7 @@ tags:
   - "Eutectic PCMs"
   - "Thermal Management"
 ---
+## Project Description
 
 This project focuses on the development of advanced **Phase Change Materials (PCMs)** operating across a broad temperature range of **−80 °C to 180 °C** for diverse industrial and technological applications. Targeted application areas include cold-chain storage, domestic temperature regulation, transportation of temperature-sensitive bio-products, and thermal management of sensitive electrical and electronic devices.
 <!--more-->
