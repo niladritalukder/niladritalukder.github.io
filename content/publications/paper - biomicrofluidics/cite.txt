@@ -1,0 +1,11 @@
+@article{Wang2024DeanVortexPlasma,
+  author    = {Wang, Yudong and Talukder, Niladri and Nunna, Bharath Babu and Lee, Eon Soo},
+  title     = {Dean vortex-enhanced blood plasma separation in self-driven spiral microchannel flow with cross-flow microfilters},
+  journal   = {Biomicrofluidics},
+  year      = {2024},
+  volume    = {18},
+  number    = {1},
+  pages     = {014104},
+  doi       = {10.1063/5.0189413},
+  publisher = {AIP Publishing}
+}
