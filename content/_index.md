@@ -7,7 +7,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -58,7 +58,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 3
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
