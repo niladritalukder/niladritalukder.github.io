@@ -1,6 +1,6 @@
 ---
 title: "Integrated Solar Photovoltaic and Heat Pump System for Combined Thermal and Electrical Energy Utilization"
-date: "2026-01-21T00:00:00Z"
+date: "2025-02-25T00:00:00Z"
 
 tags:
   - "Solar Photovoltaics"
