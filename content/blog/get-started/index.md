@@ -1,7 +1,7 @@
 ---
 title: 🎉 NSF I-Coprs Journey - Go out and know the Market
 summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+date: 2025-06-02
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
