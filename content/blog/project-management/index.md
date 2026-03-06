@@ -1,14 +1,14 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: ✅ Attended the MRS Fall 2024 Exhibit
+summary: Delivered oral presentation on N-G/MOF nanocatalyst with special emphasise on the Zn single-aton Sites for ORR catalytic activities!
+date: 2024-12-10
 authors:
   - me
 tags:
-  - Hugo Blox
-  - Markdown
+  - MRS Fall 2024
+  - Zn single-aton Sites for ORR
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ""
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
