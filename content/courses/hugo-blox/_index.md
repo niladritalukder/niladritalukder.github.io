@@ -1,6 +1,6 @@
 ---
-linkTitle: Hugo Blox
-title: Special Topic: Fuel Cells and Batteries!
+linkTitle: Fundaments
+title: Special Topic- Fuel Cells and Batteries!
 date: 2025-09-24
 type: docs
 
