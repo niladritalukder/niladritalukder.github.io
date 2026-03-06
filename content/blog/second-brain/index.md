@@ -1,6 +1,6 @@
 ---
 title: Talk at TMS 2025 - Graphene/MXene Synnargy for Catalysis.
-summary: Delivered an Invited talk at the TMS 2025 Meeting on the noble Graphene/MXene Catalyst for ORR!
+summary: Delivered an Invited talk at the TMS 2025 Annual Meeting on the noble Graphene/MXene Catalyst for ORR!
 date: 2025-03-26
 authors:
   - me
