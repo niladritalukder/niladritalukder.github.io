@@ -1,5 +1,5 @@
 ---
-title: 👩🏼‍🏫 Materials Characterization Series: Raman Spectroscopy
+title: 👩🏼‍🏫 Materials Characterization Series - Raman Spectroscopy
 summary: Raman Spectroscopy in a story!
 date: 2022-10-24
 math: true
