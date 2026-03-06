@@ -1,6 +1,6 @@
 ---
 title: 🎉 NSF I-Coprs Journey - Go out and know the Market
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: From laboratory to the Real Word experience; an amazing journey!
 date: 2025-06-02
 
 # Featured image
