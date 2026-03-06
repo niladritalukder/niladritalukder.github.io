@@ -1,11 +1,11 @@
 ---
-linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
+linkTitle: Fundaments
+title: Special Topic: Fuel Cells and Batteries!
 date: 2025-09-24
 type: docs
 
 tags:
-  - Hugo Blox
+  - Electrochemical Energy Systems
   - Course
 
 content_meta:
