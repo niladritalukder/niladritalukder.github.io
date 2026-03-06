@@ -1,13 +1,13 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 📈 Collaboration with Brookhaven National Laboratory (BNL), NY, USA.
+summary: Since 2021, Niladri Talukder is visiting the Center for Functional Nanomaterial (CFN) at BNL as a guest user to work on multiple high-impact projects.
+date: 2025-10-25
 authors:
   - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Brookhaven National Laboratory
+  - Center for Functional Nanomaterial
+  - Collaboration
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
