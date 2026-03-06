@@ -1,14 +1,14 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Talk at TMS 2025 - Graphene/MXene Synnargy for Catalysis.
+summary: Delivered an Invited talk at the TMS 2025 Meeting on the noble Graphene/MXene Catalyst for ORR!
+date: 2025-03-26
 authors:
   - me
 tags:
-  - Second Brain
-  - Markdown
+  - Graphene/MXene
+  - ORR Catalyst
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ""
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
