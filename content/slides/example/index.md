@@ -47,13 +47,14 @@ slides:
 Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support
 
 ·
+
 Dr. NILADRI TALUKDER 
 
 New Jersey Institute of Technology
 
 ---
 
-## Research Overview
+## Key Topics
 
 - Phase Change Materials
 - Engineered Nanomaterials
@@ -64,12 +65,12 @@ New Jersey Institute of Technology
 ## Intermolecular Interaction
 
 ```python
-def score(x: int) -> int:
-    return x * x
+Mixture Homogenety + Molecular Bond = Altered Vibration Transfer Modes
+
 ```
 
 $$
-Mixture Homogenety + Molecular Bond = Altered Vibration Transfer Modes
+Will be updated after the session
 $$
 
 ---
