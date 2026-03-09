@@ -38,7 +38,7 @@ slides:
     
     # FOOTER TEXT: Display copyright, conference name, etc.
     footer:
-      text: "© 2026 HugoBlox"       # Supports Markdown (e.g., links)
+      text: "© TMS 2026 Annual Meeting"       # Supports Markdown (e.g., links)
       position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
 ---
 
