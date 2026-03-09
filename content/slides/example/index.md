@@ -5,7 +5,7 @@ date: 2026-03-08
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
 slides:
-  theme: black  # Options: black, white, league, beige, sky, night, serif, simple, solarized
+  theme: sky  # Options: black, white, league, beige, sky, night, serif, simple, solarized
   highlight_style: dracula  # Code syntax highlighting theme
   diagram: true  # Enable Mermaid diagrams for flowcharts, etc.
   reveal_options:
@@ -45,6 +45,7 @@ slides:
 
 <!-- no-branding -->
 Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support
+
 Dr. NILADRI TALUKDER · New Jersey Institute of Technology
 
 ---
