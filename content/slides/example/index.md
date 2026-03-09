@@ -111,10 +111,6 @@ $$
 
 <div style="flex: 2;">
 
--->
-
-
-<!-- 
 ### Main Content (2/3 width)
 
 This column takes up twice the space of the right column.
@@ -128,9 +124,6 @@ def example():
 
 <div style="flex: 1;">
 
--->
-
-<!--
 
 ### Sidebar (1/3 width)
 
