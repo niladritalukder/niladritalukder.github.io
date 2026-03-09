@@ -1,6 +1,6 @@
 ---
-title: "Example Talk: Recent Work"
-date: 2024-01-01
+title: "Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support"
+date: 2026-03-08
 # `type: slides` is inferred from folder, but can be set explicitly:
 type: slides
 summary: "A quick tour of recent research highlights: multimodal LLMs, efficient training, and responsible AI."
