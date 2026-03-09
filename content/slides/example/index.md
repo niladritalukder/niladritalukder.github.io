@@ -70,10 +70,12 @@ Mixture Homogenety + Molecular Bond = Altered Vibration Transfer Modes
 ```
 
 $$
-Will be updated after the session
+Will  be  updated  after  the  session
 $$
 
 ---
+
+<!-- 
 
 ## Dual Column Layout
 
@@ -488,3 +490,4 @@ Or just the footer (author + footer text):
 
 **Pro tip:** Set site-wide defaults in `config/_default/params.yaml` under `slides.branding`!
 
+-->
