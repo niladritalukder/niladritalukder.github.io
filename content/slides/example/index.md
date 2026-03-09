@@ -44,20 +44,20 @@ slides:
 
 
 <!-- no-branding -->
-# Example Talk
-### Dr. Alex Johnson · Meta AI
+# Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support
+### Dr. NILADRI TALUKDER · New Jersey Institute of Technology
 
 ---
 
 ## Research Overview
 
-- Multimodal LLMs
-- Efficient training
-- Responsible AI
+- Phase Change Materials
+- Engineered Nanomaterials
+- Thermal Properties Enhancement
 
 ---
 
-## Code & Math
+## Intermolecular Interaction
 
 ```python
 def score(x: int) -> int:
@@ -65,7 +65,7 @@ def score(x: int) -> int:
 ```
 
 $$
-E = mc^2
+Mixture Homogenety + Molecular Bond = Altered Vibration Transfer Modes
 $$
 
 ---
