@@ -44,7 +44,7 @@ slides:
 
 
 <!-- no-branding -->
-# Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support
+Thermal Property Enhancement of Phase Change Materials (PCMs) by Engineered 2D N-Doped Graphene (N-G) Nanoparticle Support
 ### Dr. NILADRI TALUKDER · New Jersey Institute of Technology
 
 ---
