@@ -38,7 +38,7 @@ slides:
     
     # FOOTER TEXT: Display copyright, conference name, etc.
     footer:
-      text: "© TMS 2026 Annual Meeting"       # Supports Markdown (e.g., links)
+      text: "© TMS 2026 Meeting"       # Supports Markdown (e.g., links)
       position: "bottom-center"     # Options: top-left, top-right, bottom-left, bottom-right, bottom-center
 ---
 
@@ -111,13 +111,13 @@ $$
 
 <div style="flex: 2;">
 
-### Main Content (2/3 width)
+### N-doped Graphene Synthesis
 
-This column takes up twice the space of the right column.
+Nanoscale High Energy Wet (NHEW) Ball MIlling Technique.
 
 ```python
-def example():
-    return "code works too"
+Control Parameters:
+    Milling Speed and Time
 ```
 
 </div>
@@ -125,10 +125,11 @@ def example():
 <div style="flex: 1;">
 
 
-### Sidebar (1/3 width)
+### Functionality Tuning
 
 > **Note**  
-> Key points in smaller column
+> N-doping ration 
+> Chemical functional groups
 
 </div>
 
