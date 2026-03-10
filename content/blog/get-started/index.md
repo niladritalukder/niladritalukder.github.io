@@ -30,8 +30,10 @@ authors:
 
 tags:
   - Tech. Commercialization
-  - Maeket Validation
+  - Value Propositions
+  - Maeket Need
   - Business Ecosystem
+  - Business Model
 
 content_meta:
   trending: true
