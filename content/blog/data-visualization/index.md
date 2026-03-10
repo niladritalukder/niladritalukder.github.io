@@ -1,5 +1,5 @@
 ---
-title: 📈 Collaboration with Brookhaven National Laboratory (BNL), NY, USA.
+title: 🔬🧪👩‍🔬📈 Collaboration with Brookhaven National Laboratory (BNL), NY, USA.
 summary: Since 2021, Niladri Talukder has been visiting the Center for Functional Nanomaterials (CFN) at BNL as a guest user to work on multiple high-impact projects.
 date: 2025-10-25
 authors:
