@@ -49,6 +49,8 @@ Welcome 👋
 
 [//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/kit/main/templates/academic-cv/preview.png)](https://hugoblox.com)'
 
+<!--
+
 ### Get Started
 
 > [!TIP]+ Quick Start Guide
@@ -115,3 +117,6 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/HugoBlox/kit/blob/main/LICENSE.md) license.
+
+-->
+
