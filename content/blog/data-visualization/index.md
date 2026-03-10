@@ -178,6 +178,9 @@ You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.
 Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
 
 An example **flowchart**:
+-->
+
+<!--
 
     ```mermaid
     graph TD
