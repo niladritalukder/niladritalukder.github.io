@@ -111,15 +111,19 @@ By iteratively refining the business model based on feedback from interviews, we
 Participating in the NSF I-Corps program taught me several valuable lessons about technology commercialization:
 
 **1. Technology alone is not enough**
+
 Even a strong scientific innovation must solve a clearly defined problem for customers.
 
 **2. The market defines value**
+
 The perceived value of a technology depends on the needs and priorities of industry stakeholders.
 
 **3. Listening is more important than pitching**
+
 Customer discovery is about learning from conversations, not convincing people.
 
 **4. Iteration is essential**
+
 Assumptions must constantly be tested and refined as new information emerges.
 
 
