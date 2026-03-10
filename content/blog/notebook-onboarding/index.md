@@ -37,7 +37,7 @@ Looking ahead, I am excited to continue working on **next-generation electrochem
 
 Ultimately, my goal is to contribute to the development of **high-performance and cost-effective alternatives to precious metal catalysts,** helping accelerate the transition toward more sustainable and widely deployable energy technologies.
 
-**Happy to research and work toward a sustainable future!. 🌱⚡**
+**Happy to research and work toward a sustainable future! 🌱⚡**
 
 {{< toc mobile_only=true is_open=true >}}
 
