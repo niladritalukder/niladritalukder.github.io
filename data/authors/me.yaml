@@ -19,7 +19,7 @@ bio: |
   His expertise includes materials synthesis, advanced characterization, and performance optimization of 2D/3D materials-based composites 
   and nanomaterials-enhanced phase change materials. His research has been published in leading scientific journals. As an 
   NSF I-Corps Entrepreneurial Lead, he bridges research and commercialization by translating laboratory innovations into scalable, 
-  market-oriented solutions. Niladri is passionate about advancing sustainable energy technologies through materials innovation, and interdisciplinary collaboration.
+  market-oriented solutions. Niladri is passionate about advancing sustainable energy technologies through materials innovation and interdisciplinary collaboration.
 
 affiliations:
   - name: New Jersey Institute of Technology
@@ -42,7 +42,7 @@ links:
 
 interests:
   - Functional Nanomaterials
-  - Graphene, MOFs, MXene, 2D/3D Materilas
+  - Graphene, MOFs, MXene, 2D/3D Materials
   - Heterogeneous Catalyst for Electrochemical Reactions
   - Battery Electrode Materials
   - Supercapacitor Materials
@@ -54,7 +54,7 @@ interests:
   - Water Purification Systems (Electrochemical)
   - Hydrogen Production Systems
   - CO2 Capture and Storage
-  - Phase Chnage Materials (PCMs)
+  - Phase Change Materials (PCMs)
   - Thermal Energy Storage Systems
   - Alternative Fuel Combustion
   - Capacitive Bio Sensors
@@ -92,12 +92,24 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
+  - role: Research and Teaching Assistant
+    org: New Jersey Institute of Technology
+    start: 2021-01-19
+    end: 2026-01-16
+    summary: |
+      Leading Conducted research on advanced nanomaterials and assisted in teaching undergraduate engineering courses at the New Jersey Institute of Technology.
   - role: Visiting Researcher
-    org: Center for Functional Nanomaterials, Brookhaven Nationla Laboratory
+    org: Center for Functional Nanomaterials, Brookhaven National Laboratory
     start: 2021-05-01
     end: 2025-12-31
     summary: |
-      Leading research on functional nanomaterials development for electrochemical and thermal energy systems.
+      Led research projects on functional nanomaterials development for electrochemical and thermal energy systems.
+  - role: Research Assistant
+    org: Andong National University
+    start: 2015-09-01
+    end: 2017-10-30
+    summary: |
+      Leading Conducted experimental research on fundamental combustion properties such as Laminar Flame Speed and Markstein Length of alternative fuels (alcohols and bio diesels).
 
 skills:
   - name: Technical Skills
