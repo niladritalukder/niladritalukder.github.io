@@ -334,7 +334,7 @@ Add engaging call-to-action buttons to your data visualization posts:
 
 {{</* button url="https://github.com/HugoBlox" new_tab="true" style="ghost" icon="arrow-top-right-on-square" icon_position="right" */>}}View Source Code{{</* /button */>}}
 ```
-
+<!--
 ### Multiple Aligned Buttons
 
 {{< button url="https://jupyter.org/" new_tab="true" style="secondary" rounded="full" align="center" >}}Try Jupyter{{< /button >}}
@@ -350,6 +350,6 @@ Add engaging call-to-action buttons to your data visualization posts:
 ```
 
 ## Did you find this page helpful? Consider sharing it 🙌
-
+-->
 
 -->
