@@ -1,5 +1,5 @@
 ---
-title: Talk at TMS 2025 - Graphene/MXene Synergy for ORR Catalysis.
+title: Talk at TMS 2025 - Graphene/MOF/MXene Synergy for ORR Catalysis.
 summary: Delivered an Invited Talk at the TMS 2025 Annual Meeting on the noble Graphene/MXene Catalyst for ORR!
 date: 2025-03-26
 authors:
