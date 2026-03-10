@@ -149,6 +149,8 @@ Custom embed with manual data
 
 {{< embed url="https://example.com" title="My Custom Resource" description="A great resource for learning" >}}
 
+<!--
+
 ### Custom Images
 
 Embed beautiful images from any source with Hugo image processing (Unsplash, custom URLs, etc.):
@@ -296,7 +298,9 @@ Save your spreadsheet as a CSV file in your page's folder and then render it by 
 renders as
 
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
+-->
 
+<!--
 ## Interactive Buttons
 
 Add engaging call-to-action buttons to your data visualization posts:
@@ -334,6 +338,8 @@ Add engaging call-to-action buttons to your data visualization posts:
 
 {{</* button url="https://github.com/HugoBlox" new_tab="true" style="ghost" icon="arrow-top-right-on-square" icon_position="right" */>}}View Source Code{{</* /button */>}}
 ```
+-->
+
 <!--
 ### Multiple Aligned Buttons
 
