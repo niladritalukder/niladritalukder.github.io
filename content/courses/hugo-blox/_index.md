@@ -1,5 +1,5 @@
 ---
-linkTitle: Fundaments
+linkTitle: Fundamentals
 title: Special Topic- Fuel Cells and Batteries!
 date: 2025-09-24
 type: docs
