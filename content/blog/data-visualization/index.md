@@ -123,7 +123,7 @@ My experience collaborating with Brookhaven National Laboratory has been one of 
 Working alongside scientists from different disciplines and institutions reinforced an important lesson in research: **breakthrough discoveries often emerge from collaborative efforts that combine diverse expertise and resources.**
 
 
-### My Thoughts on these BNL Collaborative Works
+### My Thoughts on Collaboration with BNL
 
 Collaborative research at national laboratories plays a crucial role in advancing modern science. My work with the **Center for Functional Nanomaterials at Brookhaven National Laboratory** allowed me to explore the complex chemistry and structure of advanced nanomaterials while contributing to the development of technologies for **energy conversion and thermal energy storage.**
 
