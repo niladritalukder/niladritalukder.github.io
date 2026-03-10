@@ -43,14 +43,62 @@ Welcome 👋
 
 ## Overview
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Academic research often focuses on scientific discovery and technological advancement. However, translating a laboratory innovation into a real-world product requires a deep understanding of market needs, industry challenges, and potential customers. My participation in the **National Science Foundation (NSF) I-Corps Program** provided a unique opportunity to bridge this gap.
+
+As the **Entrepreneurial Lead (EL)** of our team, I worked alongside my research supervisor and industry collaborators to explore the commercialization potential of our technology: **Nano-Carbon Enhanced Optimizable Phase Change Materials (NEO-PCM)**. The program challenged us to step outside the laboratory and engage directly with industry professionals to understand how our technology could create real value.
 
 [//]: # '[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/HugoBlox/kit/main/templates/academic-cv/preview.png)](https://hugoblox.com)'
 
-<!--
+### What is NSF I-Corps?
 
+The **NSF Innovation Corps (I-Corps)** program is designed to help researchers evaluate the commercial potential of their technologies. Unlike traditional academic training, the program emphasizes **customer discovery, market validation, and entrepreneurial thinking.**
+
+One of the core principles of I-Corps is simple but powerful:
+
+**“Get out of the building.”**
+
+Instead of assuming who the customers are, teams must go out and talk to them.
+
+### Our Technology: NEO-PCM
+
+Our project focuses on **Nano-Carbon Enhanced Optimizable Phase Change Materials (NEO-PCM)**. These advanced materials are designed to improve thermal energy storage and temperature regulation in various applications, including:
+- 👉 Cold-chain logistics and pharmaceutical storage
+- 👉 HVAC and building energy efficiency
+- 👉 Electronics cooling and thermal management
+- 👉 Sustainable packaging and temperature-controlled shipping
+
+By incorporating **functional nano-carbon materials**, the NEO-PCM technology aims to improve thermal conductivity, stability, and overall energy efficiency.
+
+
+### Customer Discovery: Talking to the Market
+
+A major component of the I-Corps program is **customer discovery interviews**. As the team’s Entrepreneurial Lead, I conducted **more than 100 interviews** with professionals across multiple industries.
+
+These conversations included:
+
+- 💬 Industry engineers and technology managers
+- 💬 Supply chain and cold-chain logistics experts
+- 💬 Packaging and insulation companies
+- 💬 Energy and HVAC specialists
+- 💬 Investors and commercialization experts
+
+The purpose of these interviews was not to sell our technology, but rather to listen and learn. Each discussion helped us understand:
+
+- 💡 The real problems companies face
+- 💡 Current technological limitations
+- 💡 Market gaps and unmet needs
+- 💡 Decision-making processes in industry
+
+This process fundamentally reshaped our assumptions about the market.
+
+### Building a Business Model
+
+
+
+
+
+
+<!--
 ### Get Started
 
 > [!TIP]+ Quick Start Guide
