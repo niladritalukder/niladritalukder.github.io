@@ -1,6 +1,6 @@
 ---
 title: ⚡️ PhD Dissertation Defense - Success! 
-summary: On November 13th, 2025, Niladri Talukder successfully defended his PhD Dissertation at the Department of Mechanical Engineering, New Jersey Institute Technology.
+summary: On November 13th, 2025, I successfully defended my Ph.D. dissertation at the Department of Mechanical Engineering, New Jersey Institute of Technology.
 date: 2025-11-13
 authors:
   - me
@@ -21,9 +21,23 @@ content_meta:
   trending: true
 ---
 
-Niladri’s dissertation, “Material Degradation and Analysis of N-Doped Graphene/MOF Nanocatalysts for ORR in Electrochemical Energy Systems,” presents an integrated theoretical and experimental investigation of nitrogen-doped graphene (N-G) and N-G/MOF nanocatalysts as sustainable alternatives to precious metal catalysts. The research systematically examined synthesis–structure–property relationships, resolving the roles of nitrogen functional groups, electronic structure modulation, and precursor-to-composite chemical transformations in governing oxygen reduction reaction (ORR) performance. Through detailed electrochemical analysis, the work established direct correlations between linear sweep voltammetry behavior and ORR mechanisms in both alkaline and acidic environments. Comprehensive degradation studies identified performance losses induced by oxidative species such as hydrogen peroxide and its derivatives, while parallel investigations clarified the structural stability of ZIF-8 in aqueous electrochemical conditions. Collectively, this research provided mechanistic insights and rational design principles for enhancing catalytic activity, durability, and structural resilience in carbon-based electrochemical nanocatalysts.
+During my Ph.D. research, I had the opportunity to explore a fascinating area of materials science: the development of **nitrogen-doped graphene (N-G) and N-G/MOF nanocatalysts** as sustainable alternatives to precious metal catalysts for electrochemical energy systems. My dissertation, titled **“Material Degradation and Analysis of N-Doped Graphene/MOF Nanocatalysts for ORR in Electrochemical Energy Systems,”** focuses on understanding how these advanced carbon-based materials behave during catalytic reactions.
 
-Building on this foundation, Niladri aims to advance next-generation electrochemical materials for sustainable energy conversion and storage systems. His future work will focus on scalable catalyst design, durability engineering, and structure-driven performance optimization for fuel cells, batteries, and related technologies. By bridging fundamental materials science with applied engineering and commercialization perspectives, he seeks to accelerate the development of high-performance, cost-effective alternatives to precious metal catalysts. His long-term goal is to contribute to resilient, efficient, and globally deployable clean energy technologies.
+The central question guiding this work was simple but important: **how can we design efficient, durable, and affordable catalysts that can replace expensive precious metals like platinum?**
+
+To explore this, I investigated the relationships between **material synthesis, structure, and catalytic performance.** A major focus of the research was understanding how different **nitrogen functional groups in graphene** influence the catalytic activity of the oxygen reduction reaction (ORR), which plays a key role in technologies such as fuel cells and metal–air batteries.
+
+Through a combination of **material synthesis, structural characterization, and electrochemical testing,** I examined how the integration of metal–organic frameworks (MOFs) with nitrogen-doped graphene modifies the electronic structure and catalytic active sites. Techniques such as **linear sweep voltammetry (LSV), cyclic voltammetry (CV)** helped reveal how these materials perform under different electrochemical environments, including both alkaline and acidic conditions.
+
+Another important aspect of the research involved understanding **material durability.** In real electrochemical systems, catalysts can degrade over time due to reactive species such as **hydrogen peroxide and related oxidative intermediates.** My work investigated how these species affect catalyst stability and how the structure of materials such as **ZIF-8-derived components** behaves in aqueous electrochemical environments.
+
+Overall, this research helped clarify several key aspects of **structure–performance relationships in carbon-based nanocatalysts**, offering insights that can guide the design of more efficient and durable catalyst materials.
+
+Looking ahead, I am excited to continue working on **next-generation electrochemical materials for sustainable energy systems.** My future interests include scalable catalyst synthesis, durability engineering, and structure-driven performance optimization for technologies such as **fuel cells, batteries, and other clean energy systems.**
+
+Ultimately, my goal is to contribute to the development of **high-performance and cost-effective alternatives to precious metal catalysts,** helping accelerate the transition toward more sustainable and widely deployable energy technologies.
+
+**Happy to research and work toward a sustainable future!.**
 
 {{< toc mobile_only=true is_open=true >}}
 
