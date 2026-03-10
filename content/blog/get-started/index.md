@@ -1,6 +1,6 @@
 ---
-title: 🎉 NSF I-Coprs Journey - Go out and know the Market
-summary: From laboratory to the Real Word experience; an amazing journey!
+title: 🎉 NSF I-Corps Journey - Go out and know the Market
+summary: From laboratory to the Real World experience; an amazing journey!
 date: 2025-06-02
 
 # Featured image
