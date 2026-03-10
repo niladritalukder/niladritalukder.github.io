@@ -1,6 +1,6 @@
 ---
 title: 👩🏼‍🏫 Materials Characterization Series - Raman Spectroscopy
-summary: Seeing the Invisible: My Raman Spectroscopy Experience with Graphene Materials
+summary: Seeing the Invisible - My Raman Spectroscopy Experience with Graphene Materials
 date: 2024-01-30
 math: true
 authors:
