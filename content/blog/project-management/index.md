@@ -1,12 +1,13 @@
 ---
-title: ✅ Attended the MRS Fall 2024 Exhibit
-summary: Delivered oral presentation on N-G/MOF nanocatalyst with special emphasise on the Zn single-aton Sites for ORR catalytic activities!
+title: 🎤 Attended the MRS Fall 2024 Exhibit
+summary: Delivered oral presentation on N-G/MOF nanocatalyst with special emphasis on the Zn single-atom sites for ORR catalytic activities!
 date: 2024-12-10
 authors:
   - me
 tags:
   - MRS Fall 2024
-  - Zn single-aton Sites for ORR
+  - N-G/MOF Nanocatalyst
+  - Zn single-atom Sites for ORR
 image:
   caption: ""
 cover:
@@ -26,84 +27,76 @@ cover:
     name: "✨"
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+In **December 2024**, I had the opportunity to attend the **Materials Research Society (MRS) Fall Meeting 2024**, one of the largest international conferences in materials science. During the conference, I delivered an oral presentation titled:
 
-## Ideation
+**“N-doped Carbon Nanocatalyst with Zn Single Atom Catalytic Sites from N-doped Graphene and Metal-Organic Frameworks.”**
 
-Hugo Blox supports a Markdown extension for mindmaps.
+The meeting brought together researchers from academia, national laboratories, and industry to discuss advances in materials for energy, electronics, nanotechnology, and sustainability. It was an exciting environment to share research and learn from the global materials science community.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+## The Research Idea
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+Nitrogen-doped carbon materials—especially **nitrogen-doped graphene (N-G)**—have gained strong attention as non-precious metal catalysts for electrochemical reactions. These materials show promising catalytic activity for the oxygen reduction reaction (ORR), a critical process in technologies such as:
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
-</code>
-</pre>
-</div>
+- Fuel cells
 
-renders as
+- Metal–air batteries
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - netlify
-  - netlify-cms
-  - slides
-```
+- Supercapacitors
 
-## Diagrams
+To further improve catalytic performance, researchers have explored combining **N-doped graphene with metal–organic frameworks (MOFs)**, which provide highly porous structures and chemically tunable sites.
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
 
-An example **Gantt diagram**:
+## What Makes This Catalyst Different?
 
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
+Most conventional Graphene-based catalysts undergo **high-temperature treatments**, where metal atoms are typically removed, leaving behind porous carbon structures.
 
-renders as
+In this work, we explored a different concept:
 
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
+**retaining and utilizing metal atoms within the catalyst structure.**
 
-## Todo lists
+By integrating **N-doped graphene with ZIF-8 MOF** using a Nanoscale High Energy Wet (NHEW) ball milling process, we created a nanocatalyst containing **Zn single-atom catalytic sites** embedded within the carbon structure.
 
-You can even write your todo lists in Markdown too:
+These Zn sites form **Zn–N–C active centers**, which are highly beneficial for ORR catalysis.
 
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
+
+## Key Findings from the Study
+
+Our experimental results showed several encouraging outcomes:
+
+- The **N-G catalyst alone** performed close to the benchmark 10 wt% Pt/C catalyst.
+
+- The optimized **N-G/MOF catalyst** achieved higher ORR current density than Pt/C in both alkaline and acidic environments.
+
+- The catalyst followed a **4-electron ORR pathway**, indicating efficient oxygen reduction.
+
+- **After 2000 electrochemical cycles, the catalyst retained over 90% of its activity**, demonstrating strong durability.
+
+Advanced characterization techniques—including **SEM, TEM, XPS, FTIR, and EDS**—confirmed the formation of Zn single-atom catalytic sites dispersed within the N-doped carbon framework.
+
+
+## Why Single-Atom Catalysts Matter
+
+
+Single-atom catalysts are an exciting frontier in catalysis research because they allow **maximum utilization of metal atoms while maintaining high catalytic activity.**
+
+In this work, the combination of:
+
+- Nitrogen-doped graphene
+
+- MOF-derived porous structures
+
+- Atomically dispersed Zn catalytic sites
+
+created a **synergistic catalytic system** capable of robust ORR performance.
+
+
+## Thoughts
+
+My presentation at **MRS 2024** was an exciting moment in my research journey. Sharing our work on **N-doped carbon nanocatalysts with Zn single-atom catalytic sites** reinforced the importance of designing new catalyst architectures that can replace expensive precious metals.
+
+Advances like these bring us closer to developing **efficient, durable, and affordable catalysts for next-generation electrochemical energy systems.**
+
+
 ```
 
-renders as
 
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
