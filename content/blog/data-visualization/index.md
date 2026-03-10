@@ -200,6 +200,8 @@ C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
 
+<!--
+
 An example **sequence diagram**:
 
     ```mermaid
@@ -213,7 +215,7 @@ An example **sequence diagram**:
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
     ```
-
+-->
 renders as
 
 ```mermaid
