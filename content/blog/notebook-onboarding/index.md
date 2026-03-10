@@ -14,7 +14,7 @@ cover:
   icon:
     name: "📔"
 image:
-  caption: "Image credit: [HugoBlox](https://hugoblox.com)"
+  caption: "Photo credit: Rakina Islam."
   focal_point: Center
   placement: 1
 content_meta:
