@@ -93,8 +93,48 @@ This process fundamentally reshaped our assumptions about the market.
 
 ### Building a Business Model
 
+Another critical component of the I-Corps journey was the development of a **Business Model Canvas (BMC)**. The BMC framework helped us organize our understanding of the commercialization pathway by identifying key elements such as:
+
+-  Customer segments
+-  Value propositions
+-  Key partners
+-  Distribution channels
+-  Cost structure and revenue streams
+
+By iteratively refining the business model based on feedback from interviews, we gradually aligned our technology with **real industry needs rather than hypothetical assumptions**.
 
 
+### Lessons from the I-Corps Experience
+
+Participating in the NSF I-Corps program taught me several valuable lessons about technology commercialization:
+
+**1. Technology alone is not enough**
+Even a strong scientific innovation must solve a clearly defined problem for customers.
+
+**2. The market defines value**
+The perceived value of a technology depends on the needs and priorities of industry stakeholders.
+
+**3. Listening is more important than pitching**
+Customer discovery is about learning from conversations, not convincing people.
+
+**4. Iteration is essential**
+Assumptions must constantly be tested and refined as new information emerges.
+
+
+### Impact on My Research Perspective
+
+The I-Corps experience significantly broadened my perspective as a researcher. It highlighted the importance of connecting **fundamental research with real-world applications and market demand**.
+
+Rather than viewing commercialization as a separate activity, I now see it as a complementary process that can guide research directions and accelerate the adoption of new technologies.
+
+
+### My Takeaways
+
+The NSF I-Corps journey was an invaluable experience that allowed me to explore the intersection of **research, innovation, and entrepreneurship**. By conducting over 100 industry interviews and developing a structured business model for NEO-PCM technology, our team gained a clearer understanding of how advanced materials can transition from laboratory research to impactful real-world solutions.
+
+For researchers interested in bringing their innovations to market, the key takeaway from I-Corps is simple:
+
+**Go out, talk to people, and truly understand the problem you are trying to solve.**
 
 
 
