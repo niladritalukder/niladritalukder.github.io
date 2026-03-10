@@ -34,6 +34,8 @@ cover:
 
 On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
 
+<!--
+
 ## Citation
 
 Here's an example of citing a publication using the cite shortcode:
@@ -159,3 +161,6 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
+
+-->
+
