@@ -286,7 +286,10 @@ Moving --> Still
 Moving --> Crash
 Crash --> [*]
 ```
+-->
 
+
+<!--
 ## Data Frames
 
 Save your spreadsheet as a CSV file in your page's folder and then render it by adding the _Table_ shortcode to your page:
