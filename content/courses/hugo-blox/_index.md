@@ -32,7 +32,7 @@ content_meta:
 
 <!-- NEXT SECTION DISABLED
 
-## Next
+ Next
 
 {{< cards >}}
  {{< card url="../fuel-cells-basics" title="Fuel Cell Fundamentals" icon="bolt" subtitle="Understand electrochemical energy conversion" >}}
