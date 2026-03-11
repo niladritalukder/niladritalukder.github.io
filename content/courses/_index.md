@@ -18,7 +18,7 @@ sections:
       filters:
         tag: Course
         kinds:
-          - page
+          - section
     design:
       view: article-grid
       show_read_time: false
