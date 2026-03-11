@@ -3,6 +3,16 @@ linkTitle: Fundamentals
 title: Special Topic- Fuel Cells and Batteries!
 date: 2025-09-24
 
+# Disable navigation and automatic listing of child pages
+cascade:
+  build:
+    list: never
+    render: always
+  params:
+    show_breadcrumb: false
+    show_sidebar: false
+    show_toc: false
+
 tags:
   - Electrochemical Energy Systems
   - Course
