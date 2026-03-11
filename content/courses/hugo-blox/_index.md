@@ -21,3 +21,10 @@ content_meta:
 
 This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
 
+## Next
+
+{{< cards >}}
+ {{< card url="../fuel-cells-basics" title="Fuel Cell Fundamentals" icon="bolt" subtitle="Understand electrochemical energy conversion" >}}
+ {{< card url="../battery-basics" title="Battery Fundamentals" icon="battery-100" subtitle="Learn how batteries store electrical energy" >}}
+{{< /cards >}}
+
