@@ -6,8 +6,8 @@ date: 2025-09-24
 
 tags:
   - Electrochemical Energy Systems
+  - ME 618 ST
   - Course
-  - (ME 618 ST)
 
 content_meta:
   content_type: 'Course'
