@@ -19,7 +19,7 @@ content_meta:
 
 <!--more-->
 
-- Introduction of electrochemistry
+- Review of electrochemistry
 - Electrochemical thermodynamics
 - Reaction kinetics – Butler-Volmer Equation, Tafel Equation
 - Charge transport
