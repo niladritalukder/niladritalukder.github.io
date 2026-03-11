@@ -29,14 +29,3 @@ content_meta:
 - Fuel Cell materials
 - Batterty structure and materilas
 
-
-<!-- NEXT SECTION DISABLED
-
- Next
-
-{{< cards >}}
- {{< card url="../fuel-cells-basics" title="Fuel Cell Fundamentals" icon="bolt" subtitle="Understand electrochemical energy conversion" >}}
- {{< card url="../battery-basics" title="Battery Fundamentals" icon="battery-100" subtitle="Learn how batteries store electrical energy" >}}
-{{< /cards >}}
-
-END DISABLED -->
