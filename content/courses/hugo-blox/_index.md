@@ -5,7 +5,7 @@ date: 2025-09-24
 
 tags:
   - Electrochemical Energy Systems
-  - Course
+  - Course (ME 618 ST)
 
 content_meta:
   content_type: 'Course'
@@ -14,11 +14,20 @@ content_meta:
   trending: false
 ---
 
-👋 Welcome to your shiny new site. Ready to learn more?
+## 📖✍️ Topics covered in this Coruse
 
 <!--more-->
 
-This course provides a brief introduction to creating and editing your site with Hugo Blox. For full documentation, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+- Introduction of electrochemistry
+- Electrochemical thermodynamics
+- Reaction kinetics – Butler-Volmer Equation, Tafel Equation
+- Charge transport
+- Mass transport
+- Electrochemical characterization methods
+- Electrochemical systems modeling
+- Fuel Cell types
+- Fuel Cell materials
+- Batterty structure and materilas
 
 
 <!-- NEXT SECTION DISABLED
