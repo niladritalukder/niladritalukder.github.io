@@ -5,7 +5,7 @@ date: 2025-09-24
 
 
 tags:
-  - Electrochemical Energy Systems]
+  - Electrochemical Energy Systems
   - Course
 
 content_meta:
