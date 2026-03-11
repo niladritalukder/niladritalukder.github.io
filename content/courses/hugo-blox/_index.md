@@ -25,8 +25,8 @@ This course provides a brief introduction to creating and editing your site with
 
 ## Next
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
-{{< /cards >}}
+# {{< cards >}}
+#  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Setup your new site in just 5 minutes!" >}}
+# {{< /cards >}}
 
 -->
