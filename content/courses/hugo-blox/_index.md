@@ -2,6 +2,7 @@
 linkTitle: Fundamentals
 title: Special Topic- Fuel Cells and Batteries!
 date: 2025-09-24
+type: docs
 
 # Disable navigation and automatic listing of child pages
 cascade:
@@ -19,7 +20,7 @@ tags:
 
 content_meta:
   content_type: 'Course'
-  difficulty: 'Beginner'
+  difficulty: 'Graduate'
   prerequisites: ['Markdown']
   trending: false
 ---
