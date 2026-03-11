@@ -3,6 +3,10 @@ title: Guide
 weight: 2
 sidebar:
   open: true
+
+build:
+  render: never
+  list: never  
 ---
 
 {{< cards >}}
