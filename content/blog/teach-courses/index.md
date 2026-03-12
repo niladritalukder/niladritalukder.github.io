@@ -1,5 +1,5 @@
 ---
-title: 👩🏼‍🏫 Materials Characterization Series - Raman Spectroscopy
+title: 👩🏼‍🏫 Blog Post - Materials Characterization Series; Raman Spectroscopy
 summary: Seeing the Invisible - My Raman Spectroscopy Experience with Graphene Materials
 date: 2025-04-25
 math: true
