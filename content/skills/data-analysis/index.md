@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis and Research Development"
-date: "2026-03-12T00:00:00Z"
+date: "2024-05-12T00:00:00Z"
 tags:
   - Skill
   - Data Analysis
@@ -20,3 +20,4 @@ Experienced in planning, executing, and interpreting structured experimental stu
 - Scientific writing and reporting
 - Research presentation
 - Technical documentation and SOP preparation
+
