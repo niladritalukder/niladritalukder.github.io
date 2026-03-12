@@ -1,6 +1,6 @@
 ---
 title: "Combustion Diagnostics - Experiments"
-date: "2026-03-12"
+date: "2017-07-12T00:00:00Z"
 
 tags:
   - Skill
@@ -46,3 +46,4 @@ Key diagnostic and measurement techniques used include:
 - **Methyl decanoate** (biodiesel surrogate fuel)
 
 These fuels were studied to understand their combustion behavior and evaluate their suitability for advanced combustion systems.
+
