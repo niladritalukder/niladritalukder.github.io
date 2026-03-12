@@ -1,6 +1,6 @@
 ---
 title: "Electrochemical Testing"
-date: "2026-03-12T00:00:00Z"
+date: "2025-06-17T00:00:00Z"
 tags:
   - Skill
   - Electrochemistry
@@ -24,3 +24,4 @@ Hands-on experience in evaluating catalyst and electrode performance for oxygen 
 - Current density and onset potential analysis
 - Stability and degradation assessment
 - Peroxide formation and reaction pathways
+
