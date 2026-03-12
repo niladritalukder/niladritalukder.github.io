@@ -12,7 +12,7 @@ sections:
 
         Select a category below to explore my detailed experience and capabilities.
     design:
-      columns: 1
+      columns: 3
 
   - block: collection
     content:
@@ -26,3 +26,4 @@ sections:
       view: card
       columns: 2
 ---
+
