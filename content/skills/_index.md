@@ -10,9 +10,9 @@ sections:
       text: |-
         This page summarizes my technical and research skills developed through work in nanomaterials, electrochemical energy systems, thermal energy storage, and experimental materials engineering.
 
-        Select a category below to explore my detailed experience and capabilities.
+        Please select a category below to explore my detailed skills and capabilities.
     design:
-      columns: 3
+      columns: 1
 
   - block: collection
     content:
@@ -23,7 +23,8 @@ sections:
         kinds:
           - page
     design:
-      view: card
+      view: article-grid
       columns: 2
 ---
+
 
