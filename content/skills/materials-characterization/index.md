@@ -4,6 +4,12 @@ date: "2026-03-01T00:00:00Z"
 tags:
   - Skill
   - Materials Characterization
+
+
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## Materials Characterization
@@ -28,4 +34,5 @@ Experienced in structural, chemical, thermal, and morphological characterization
 - PCM thermal-property evaluation
 - Structure–property relationship analysis
 - Degradation and stability studies
+
 
