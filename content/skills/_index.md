@@ -12,10 +12,11 @@ sections:
         Please select a category below to explore my detailed skills and capabilities.
         </div>
     design:
-     columns: "1"
+      columns: "1"
   - block: collection
     content:
       title: "Skill Areas"
+      count: 0
       filters:
         folders:
           - skills
@@ -25,6 +26,7 @@ sections:
       view: article-grid
       columns: 3
 ---
+
 
 
 
