@@ -7,21 +7,21 @@ main:
   - name: Profile
     url: /
     weight: 10
-  - name: Publications
-    url: /publications/
-    weight: 11
   - name: Experience
     url: /experience/
+    weight: 11
+  - name: Publications
+    url: /publications/
     weight: 20
   - name: Projects
     url: /projects/
     weight: 30
-  - name: Talks/Presentations
-    url: /#talks
-    weight: 31
+#  - name: Talks/Presentations
+#    url: /#talks
+#    weight: 31
   - name: News & Blogs
-    url: /#news
+    url: /blog/
     weight: 32
-  - name: Courses
-    url: /courses/
-    weight: 40
+#  - name: Courses
+#    url: /courses/
+#    weight: 40
