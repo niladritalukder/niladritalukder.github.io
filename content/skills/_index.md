@@ -9,8 +9,6 @@ sections:
       title: "Skills"
       text: |-
         <div style="width: 100%;">
-        This page summarizes my technical and research skills developed through work in nanomaterials, electrochemical energy systems, thermal energy storage, and experimental materials engineering.
-
         Please select a category below to explore my detailed skills and capabilities.
         </div>
     design:
@@ -27,6 +25,7 @@ sections:
       view: article-grid
       columns: 2
 ---
+
 
 
 
