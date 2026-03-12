@@ -15,7 +15,6 @@ sections:
         </div>
     design:
      columns: "1"
-
   - block: collection
     content:
       title: "Skill Areas"
@@ -28,6 +27,7 @@ sections:
       view: article-grid
       columns: 2
 ---
+
 
 
 
