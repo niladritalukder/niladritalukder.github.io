@@ -44,7 +44,7 @@ links:
     url: https://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=E4D6F9CD9CF5CDA485258D0D005A438A
 
 # Link to your Markdown slides
-slides: "example"
+# slides: "example"
 
 projects: []
 ---
