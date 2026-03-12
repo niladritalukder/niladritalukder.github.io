@@ -4,6 +4,11 @@ date: "2025-10-08T00:00:00Z"
 tags:
   - Skill
   - Materials Synthesis
+
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## Materials Synthesis
@@ -14,7 +19,6 @@ Experience in synthesizing and optimizing carbon-based nanomaterials, composite 
 
 ### Methods
 - Ball milling
-- Wet ball milling
 - Ultrasonication
 - Chemical functionalization
 - Composite formulation
@@ -28,4 +32,5 @@ Experience in synthesizing and optimizing carbon-based nanomaterials, composite 
 - N-G/MOF composites
 - Nano-enhanced phase change materials
 - Bio-based PCM systems
+
 
