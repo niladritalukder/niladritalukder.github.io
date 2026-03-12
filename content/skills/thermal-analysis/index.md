@@ -4,6 +4,11 @@ date: "2025-02-12T00:00:00Z"
 tags:
   - Skill
   - Thermal Analysis
+
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## Thermal Analysis and Energy Storage Materials
@@ -26,4 +31,5 @@ Experience in evaluating and optimizing phase change materials and thermally fun
 - TGA
 - Controlled thermal cycling
 - Comparative thermal performance studies
+
 
