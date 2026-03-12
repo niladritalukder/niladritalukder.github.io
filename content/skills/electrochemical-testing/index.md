@@ -4,6 +4,11 @@ date: "2025-06-17T00:00:00Z"
 tags:
   - Skill
   - Electrochemistry
+
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: false
 ---
 
 ## Electrochemical Testing
@@ -24,4 +29,5 @@ Hands-on experience in evaluating catalyst and electrode performance for oxygen 
 - Current density and onset potential analysis
 - Stability and degradation assessment
 - Peroxide formation and reaction pathways
+
 
