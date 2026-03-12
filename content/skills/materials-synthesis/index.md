@@ -1,6 +1,6 @@
 ---
 title: "Materials Synthesis"
-date: "2026-03-12T00:00:00Z"
+date: "2025-10-08T00:00:00Z"
 tags:
   - Skill
   - Materials Synthesis
@@ -28,3 +28,4 @@ Experience in synthesizing and optimizing carbon-based nanomaterials, composite 
 - N-G/MOF composites
 - Nano-enhanced phase change materials
 - Bio-based PCM systems
+
