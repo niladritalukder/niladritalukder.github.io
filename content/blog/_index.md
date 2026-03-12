@@ -1,4 +1,5 @@
 ---
-title: Blog
+title: News & My Blogs
 view: article-grid
 ---
+Hi, 
