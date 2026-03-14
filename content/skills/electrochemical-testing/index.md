@@ -1,5 +1,5 @@
 ---
-title: "Electrochemical Test for Energy Ststems"
+title: "Electrochemical Tests - Catalyst & Electrode"
 date: "2025-11-21T00:00:00Z"
 tags:
   - Skill
@@ -13,7 +13,7 @@ image:
 
 ## Techniques:
 
-CV, LSV, EIS, Electrochemical workstation, etc. used to evaluate catalyst and electrode performance for related electrochemical systems.
+LSV, CV (long-term stability test), EIS, Electrochemical workstation, etc. used to evaluate catalyst and electrode performance for related electrochemical systems.
 
 <!--more-->
 
