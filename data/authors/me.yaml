@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Niladri Talukder
+  display: Niladri Talukder
   given: Niladri
   family: Talukder
   alternate: ''  # Example: 王伟
@@ -13,7 +13,7 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Research Associate
+role: Ph.D. Mechanical Engineering
 bio: |
   Niladri Talukder, Ph.D., is a Mechanical Engineer specializing in functional nanomaterials for electrochemical and thermal energy systems. 
   His expertise includes materials synthesis, advanced characterization, and performance optimization of 2D/3D materials-based composites 
