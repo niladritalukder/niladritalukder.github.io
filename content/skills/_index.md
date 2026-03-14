@@ -9,7 +9,7 @@ sections:
       title: "Skills"
       text: |-
         <div style="width: 100%;">
-        Please select a category below to explore my detailed skills and capabilities.
+        **Please select a skill area below to explore my detailed skills and capabilities.**
         </div>
     design:
       columns: "1"
