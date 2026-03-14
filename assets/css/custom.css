@@ -15,3 +15,7 @@ button.btn:focus,
 .btn:focus {
   filter: brightness(0.92);
 }
+/* Hide "Create your site" button in footer */
+footer a[href*="hugoblox.com"] {
+  display: none !important;
+}
