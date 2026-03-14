@@ -37,7 +37,7 @@ Used for structural, chemical, thermal, and morphological characterization of ad
 
 
 
-### Materials Characterizaed:
+### Materials Characterized:
 
 - *Graphene, Graphene Oxide (GO), Nitrogen-doped Graphene (N-G)*
 - *Metal-organic Frameworks (MOF)*
