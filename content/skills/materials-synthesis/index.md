@@ -1,6 +1,6 @@
 ---
 title: "Materials Synthesis"
-date: "2025-10-08T00:00:00Z"
+date: "2025-07-18T00:00:00Z"
 tags:
   - Skill
   - Materials Synthesis
@@ -11,19 +11,19 @@ image:
   preview_only: false
 ---
 
-## Materials Synthesis
+## Techniques:
 
-Experience in synthesizing and optimizing carbon-based nanomaterials, composite catalysts, and thermal-storage materials through scalable and research-oriented methods.
+Ball milling (wet and dry), Annealing, Thermal treatment, Sonication, solvo-chemical, etc. used for synthesizing and optimizing carbon-based nanomaterials, composite catalysts, and thermal-storage materials through scalable and research-oriented methods.
 
 <!--more-->
 
 ### Methods
 - Ball milling
-- Ultrasonication
-- Chemical functionalization
-- Composite formulation
-- Eutectic PCM preparation
-- Nanoparticle dispersion optimization
+- Sonication
+- Slovo-chemical
+- Thermal treatment
+- Annealing 
+- Plasma treatment
 
 ### Materials worked on
 - Graphene
