@@ -23,7 +23,7 @@ Ball milling (wet and dry), Annealing, Thermal treatment, Sonication, solvo-chem
 
 - **Sonication (Ultrasonication)** - Utilized ultrasonication for dispersion, exfoliation, and homogenization of nanomaterials in liquid media; applied to achieve uniform nanoparticle distribution in composite and suspension systems.
 
-- **Solvothermal / Solution-Based Processingl** - Performed solution-phase synthesis and processing to prepare nanomaterials and composite precursors under controlled chemical environments; used to facilitate controlled nucleation, growth, and functionalization of materials.
+- **Solvothermal / Solution-Based Processing** - Performed solution-phase synthesis and processing to prepare nanomaterials and composite precursors under controlled chemical environments; used to facilitate controlled nucleation, growth, and functionalization of materials.
 
 - **Thermal Treatment** - Conducted controlled heat treatments to induce structural transformation, carbonization, or phase evolution in nanomaterials; used to tailor material properties such as graphitization, porosity, and catalytic activity.
 
