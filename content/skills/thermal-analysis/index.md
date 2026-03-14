@@ -1,6 +1,6 @@
 ---
 title: "Thermal Analysis and Energy Storage Materials"
-date: "2025-07-26T00:00:00Z"
+date: "2025-10-26T00:00:00Z"
 tags:
   - Skill
   - Thermal Analysis
