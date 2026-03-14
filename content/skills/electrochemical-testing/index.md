@@ -1,5 +1,5 @@
 ---
-title: "Electrochemical Evaluation"
+title: "Electrochemical Test for Energy Ststems"
 date: "2025-11-21T00:00:00Z"
 tags:
   - Skill
