@@ -22,6 +22,7 @@ LSV, CV (long-term stability test), EIS, Electrochemical workstation, etc. used 
 - Rotating ring-disk electrode (RRDE)
 - Linear sweep voltammetry (LSV)
 - Cyclic voltammetry (CV)
+- Electrochemical workstation for Fuel cell and Battery testing
 - Electrochemical impedance spectroscopy (EIS)
 
 ### Focus areas
