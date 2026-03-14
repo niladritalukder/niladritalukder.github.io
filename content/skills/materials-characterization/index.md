@@ -12,7 +12,7 @@ image:
   preview_only: false
 ---
 
-## Materials Characterization Techniques:
+## Techniques:
 
 Raman, FT-IR, XPS, XRD, EDX, SEM, TEM.
 Used for structural, chemical, thermal, and morphological characterization of advanced materials for electrochemical and thermal energy systems.
