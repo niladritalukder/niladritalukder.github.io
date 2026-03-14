@@ -1,6 +1,6 @@
 ---
 title: "Thermal Analysis and Energy Storage Materials"
-date: "2025-02-12T00:00:00Z"
+date: "2025-07-26T00:00:00Z"
 tags:
   - Skill
   - Thermal Analysis
@@ -11,9 +11,9 @@ image:
   preview_only: false
 ---
 
-## Thermal Analysis and Energy Storage Materials
+## Thermal Analysis Techniques:
 
-Experience in evaluating and optimizing phase change materials and thermally functional composites for energy storage and thermal management applications.
+DSC, TGA, T-history, Guarded Hot Plate, etc. used to evaluate and optimize phase change materials and thermally functional composites for energy storage and thermal management applications.
 
 <!--more-->
 
