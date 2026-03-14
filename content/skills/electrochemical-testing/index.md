@@ -1,6 +1,6 @@
 ---
-title: "Electrochemical Testing"
-date: "2025-06-17T00:00:00Z"
+title: "Electrochemical Evaluation"
+date: "2025-11-21T00:00:00Z"
 tags:
   - Skill
   - Electrochemistry
@@ -11,9 +11,9 @@ image:
   preview_only: false
 ---
 
-## Electrochemical Testing
+## Techniques:
 
-Hands-on experience in evaluating catalyst and electrode performance for oxygen reduction reaction and related electrochemical systems.
+CV, LSV, EIS, Electrochemical workstation, etc. used to evaluate catalyst and electrode performance for related electrochemical systems.
 
 <!--more-->
 
