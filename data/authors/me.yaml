@@ -83,9 +83,19 @@ education:
     end: 2013-09-05
 
 experience:
+  - role: Chief Scientist
+    org: Abonics Inc.
+    start: 2026-05-01
+    summary: |
+      Leading research and innovation efforts to develop microfluidic-based biochips for rapid disease detection, with a focus on point-of-care diagnostic applications. Core responsibilities include optimizing biochip design and material components to enhance specificity and sensitivity, contributing to grant proposal development, and supporting commercialization efforts. 
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
   - role: Research Associate
     org: New Jersey Institute of Technology
     start: 2026-01-01
+    end: 2026-03-27
     summary: |
       Leading research on carbon-based nanomaterials development for electrochemical and thermal energy systems.
     button:
