@@ -41,9 +41,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a Research Associate at the Advanced Energy Systems and Microdevices Laboratory at NJIT. My work spans multiple areas of technological development, focused on translating fundamental scientific concepts into practical, high-impact applications.
+        My research spans multiple areas of materials development for electrochemical and thermal energy systems and Microfluidic-based biochips for POC devices. focused on translating fundamental scientific concepts into practical, high-impact applications.
 
-        My work encompasses advanced nanocatalyst and electrode materials engineering, materials degradation and durability analysis, nano-enhanced thermal energy storage systems, electrochemical biosensing for disease diagnostics, and experimental combustion studies of alternative fuels to advance sustainable energy and healthcare technologies.
+        My work encompasses functional nanomaterials formilation, electrode materials engineering, materials degradation and durability analysis, nanomaterials-enhanced thermal energy storage systems, electrochemical biosensing for disease diagnostics, and experimental combustion studies of alternative fuels to advance sustainable energy and healthcare technologies.
 
         Please reach out to discuss opportunities and collaborate 😃
     design:
