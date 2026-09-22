@@ -1,6 +1,6 @@
 ---
 title: "Microfluidic-based Biochip-integrated Multiplex Assay Devices for Rapid Biomarkers Detection"
-date: "2026-03-04T00:00:00Z"
+date: "2025-03-04T00:00:00Z"
 
 tags:
   - "Microfluidic Biochip"
