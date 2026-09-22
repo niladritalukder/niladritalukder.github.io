@@ -41,7 +41,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research spans multiple areas of materials development for electrochemical and thermal energy systems and Microfluidic-based biochips for POC devices. I also am working on translating fundamental scientific concepts into practical applications.
+        My research spans multiple areas of materials development for electrochemical and thermal energy systems, and microfluidic-based biochips for POC devices. I also am working on translating fundamental scientific concepts into practical applications.
 
         My work encompasses functional nanomaterials formilation, electrode materials engineering, materials degradation and durability analysis, nanomaterials-enhanced thermal energy storage systems, electrochemical biosensing for disease diagnostics, and experimental combustion studies of alternative fuels to advance sustainable energy and healthcare technologies.
 
