@@ -16,8 +16,8 @@ sections:
       username: me
       text: ''
       button:
-        text: Download Resumé
-        url: /uploads/resume.pdf
+        text: Download CV
+        url: /uploads/cv.pdf
       headings:
         about: ''
         education: ''
