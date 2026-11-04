@@ -83,6 +83,16 @@ education:
     end: 2013-09-05
 
 experience:
+  - role: Data Analyst (Research)
+    org: New Jersey Institute of Technology
+    start: 2026-10-12
+    summary: |
+      Coordinating multiple research projects in collaboration with laboratory members and external collaborators, experimental planning; data acquisition, processing, and analysis; and technical documentation and reporting.
+      Developing and evaluating functional nanomaterials and composites for electrocatalytic systems and thermal energy systems; Performing comprehensive physical, chemical, electrochemical, and thermal characterization to investigate material properties, property-influence performance changes, stability, and further improvement of materials.
+    button:
+      text: View portfolio
+      url: /
+      icon: hero/arrow-down-tray
   - role: Scientist
     org: Abonics, Inc.
     start: 2026-05-01
